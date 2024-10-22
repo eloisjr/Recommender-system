@@ -8,9 +8,13 @@ implementation:"A New Collaborative Filtering Approach Utilizing Item’s Popula
 
 Objective: 
 *Calculate item's popularity 
+
 *Averange rating by user
+
 *Similarity calculation based on item's popularity
+
 *Collaborative filtering
+
 *Measure the prediction quality
   
-Data information: Data is based on movie popularity rating. 
+Data information: Data is based on movie popularity ratings. 
