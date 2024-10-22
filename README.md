@@ -7,14 +7,14 @@ Location: Department of Computer Science and Technology, East China Normal Unive
 implementation:"A New Collaborative Filtering Approach Utilizing Item’s Popularity”.
 
 Objective: 
-*Calculate item's popularity 
+- Calculate item's popularity 
 
-*Averange rating by user
+- Averange rating by user
 
-*Similarity calculation based on item's popularity
+- Similarity calculation based on item's popularity
 
-*Collaborative filtering
+- Collaborative filtering
 
-*Measure the prediction quality
+- Measure the prediction quality
   
 Data information: Data is based on movie popularity ratings. 
